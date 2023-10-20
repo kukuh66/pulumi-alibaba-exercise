@@ -1,0 +1,6 @@
+name: alibaba-sandbox
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal AliCloud Python Pulumi program
